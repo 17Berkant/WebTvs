@@ -1,0 +1,9 @@
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\PubTmp\Out\WebTvs.exe
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\PubTmp\Out\appsettings.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\PubTmp\Out\WebTvs.dll
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\PubTmp\Out\WebTvs.deps.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\PubTmp\Out\WebTvs.runtimeconfig.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\PubTmp\Out\WebTvs.pdb
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\PubTmp\Out\System.Net.WebSockets.WebSocketProtocol.dll

@@ -1,0 +1,102 @@
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\appsettings.Development.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\appsettings.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.staticwebassets.runtime.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.exe
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.deps.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.runtimeconfig.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.dll
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.pdb
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.AssemblyInfoInputs.cache
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.AssemblyInfo.cs
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.csproj.CoreCompileInputs.cache
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.MvcApplicationPartsAssemblyInfo.cache
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.RazorAssemblyInfo.cache
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.RazorAssemblyInfo.cs
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.WebTvs.Microsoft.AspNetCore.StaticWebAssets.props
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.build.WebTvs.props
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebTvs.props
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebTvs.props
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets.pack.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets.build.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets.development.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\scopedcss\bundle\WebTvs.styles.css
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\scopedcss\projectbundle\WebTvs.bundle.scp.css
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.dll
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\refint\WebTvs.dll
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.pdb
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.genruntimeconfig.cache
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\ref\WebTvs.dll
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.csproj.AssemblyReference.cache
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.csproj.CopyComplete
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\appsettings.json
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.staticwebassets.runtime.json
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.exe
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.deps.json
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.runtimeconfig.json
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.dll
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.pdb
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.csproj.AssemblyReference.cache
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.AssemblyInfoInputs.cache
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.AssemblyInfo.cs
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.csproj.CoreCompileInputs.cache
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.RazorAssemblyInfo.cache
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.RazorAssemblyInfo.cs
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.WebTvs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.build.WebTvs.props
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebTvs.props
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebTvs.props
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\scopedcss\bundle\WebTvs.styles.css
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\scopedcss\projectbundle\WebTvs.bundle.scp.css
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.csproj.Up2Date
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.dll
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\refint\WebTvs.dll
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.pdb
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.genruntimeconfig.cache
+C:\Users\bakyildiz\Downloads\pro (1)\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\ref\WebTvs.dll
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\appsettings.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.staticwebassets.runtime.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.exe
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.deps.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.runtimeconfig.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.dll
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\WebTvs.pdb
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.csproj.AssemblyReference.cache
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.AssemblyInfoInputs.cache
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.AssemblyInfo.cs
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.csproj.CoreCompileInputs.cache
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.RazorAssemblyInfo.cache
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.RazorAssemblyInfo.cs
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.WebTvs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.build.WebTvs.props
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebTvs.props
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebTvs.props
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\scopedcss\bundle\WebTvs.styles.css
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\scopedcss\projectbundle\WebTvs.bundle.scp.css
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.csproj.Up2Date
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.dll
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\refint\WebTvs.dll
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.pdb
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\WebTvs.genruntimeconfig.cache
+C:\Users\bakyildiz\Downloads\pro\WebTvs\WebTvs\WebTvs\obj\Debug\net6.0\ref\WebTvs.dll

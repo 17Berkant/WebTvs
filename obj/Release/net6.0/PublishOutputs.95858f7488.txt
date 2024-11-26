@@ -1,0 +1,9 @@
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Release\net6.0\PubTmp\Out\WebTvs.exe
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Release\net6.0\PubTmp\Out\WebTvs.dll
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Release\net6.0\PubTmp\Out\WebTvs.deps.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Release\net6.0\PubTmp\Out\WebTvs.runtimeconfig.json
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Release\net6.0\PubTmp\Out\WebTvs.pdb
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+E:\GitLab\MyProjects\WebTvs\WebTvs\WebTvs\obj\Release\net6.0\PubTmp\Out\System.Net.WebSockets.WebSocketProtocol.dll
